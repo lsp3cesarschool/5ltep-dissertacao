@@ -1,0 +1,9 @@
+[
+ {"id": "S1", "topic": "Qualidade de dados abertos governamentais", "q": "(\"open government data\" OR \"open data portal\" OR \"open data portals\") AND (\"data quality\" OR \"quality assessment\" OR \"quality monitoring\" OR \"metadata quality\")"},
+ {"id": "S2", "topic": "Proveniência e observabilidade", "q": "(\"open data\" OR \"government data\" OR \"public sector data\") AND (\"provenance\" OR \"PROV-DM\" OR \"data lineage\" OR \"data observability\")"},
+ {"id": "S3", "topic": "Detecção de anomalias em dados públicos/ambientais", "q": "(\"open data\" OR \"government data\" OR \"environmental data\" OR \"administrative data\") AND (\"anomaly detection\" OR \"outlier detection\") AND (\"time series\" OR \"temporal\")"},
+ {"id": "S4", "topic": "LLM para interpretação de anomalias/qualidade", "q": "(\"large language model\" OR \"large language models\" OR \"LLM\" OR \"LLMs\") AND (\"anomaly detection\" OR \"data quality\" OR \"data validation\") AND (\"time series\" OR \"tabular\" OR \"open data\" OR \"explanation\")"},
+ {"id": "S5", "topic": "Validação semântica e regras de domínio", "q": "(\"semantic validation\" OR \"business rules\" OR \"data quality rules\" OR \"integrity constraints\" OR \"data contract\" OR \"data contracts\" OR \"schema drift\") AND (\"data quality\") AND (\"open data\" OR \"government\" OR \"public sector\" OR \"pipeline\")"},
+ {"id": "S6", "topic": "Human-in-the-loop e governança de qualidade", "q": "(\"human-in-the-loop\" OR \"data steward\" OR \"data stewardship\" OR \"data governance\") AND (\"data quality\") AND (\"open data\" OR \"government\" OR \"public sector\")"},
+ {"id": "S7", "topic": "CKAN", "q": "\"CKAN\""}
+]
